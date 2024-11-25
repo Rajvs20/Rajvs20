@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I am Raj Vardhan Singh, a passionate problem-solve
   - **Internships**:  
     - **Samsung Research Institute Bangalore**: Multi-horizon Time Series Forecasting  
     - **Knowledge Edge AI**: Leveraged LLMs for educational solutions  
-    - **Rubixe**: Client-specific ML models achieving 95% test accuracy  
-
-- **Research**:  
-  Developed an ML algorithm for **anomaly detection in chest X-ray images**.
 
 ---
 
