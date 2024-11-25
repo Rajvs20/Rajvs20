@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I am Raj Vardhan Singh, a passionate problem-solve
 ## 📬 **Get in Touch**
 
 - **GitHub**: [github.com/RajVardhanSingh](https://github.com/RajVardhanSingh)  
-- **LinkedIn**: [linkedin.com/in/RajVardhanSingh](https://www.linkedin.com/in/RajVardhanSingh)  
-- **Email**: rajv.example@gmail.com  
+- **LinkedIn**: [linkedin.com/in/RajVardhanSingh](https://www.linkedin.com/in/rajvardhan343/)  
+- **Email**: rajvardhanmts@gmail.com
 
 ---
 
