@@ -46,13 +46,6 @@ Welcome to my GitHub profile! I am Raj Vardhan Singh, a passionate problem-solve
 
 ---
 
-## 📜 **Certifications**
-
-- Machine Learning (Stanford Online)  
-- Deep Learning Specialization (Coursera)  
-- Tableau Analyst (Tableau)  
-
----
 
 ## 📬 **Get in Touch**
 
