@@ -1,6 +1,5 @@
 # Raj Vardhan Singh
 
-🎓 **Final Year Undergraduate, IIT Kanpur**  
 💻 **Software Development Engineer I (SDE I) at Meril**  
 
 Welcome to my GitHub profile! I am Raj Vardhan Singh, a passionate problem-solver and technology enthusiast, with a background in **Mathematics and Scientific Computing**. I specialize in **Machine Learning, Natural Language Processing, and Deep Learning**, and I love tackling challenging problems in software engineering and applied science.
